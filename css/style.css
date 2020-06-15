@@ -1605,7 +1605,7 @@ a.store:last-child {
   font-size: 0.9rem;
   font-style: italic;
   line-height: 1; 
-  margin-top: 20px; 
+  margin-top: 20px;
 }
 
 /*------------------------------------------*/
@@ -1739,7 +1739,7 @@ a.store:last-child {
    =========================================================================== */
 
 #features-4 .bg-inner {
-  background-image: url(../images/tra-bg-1.png);
+  background-image: url(../images/tra-bg-2.png);
   background-position: center center;  
   position: relative;
   z-index: 1;
@@ -2901,7 +2901,7 @@ p.testimonial-autor {
 }
 
 #download-2 .bg-inner {
-  background-image: url(../images/download-2.jpg);
+  background-image: url(../images/download-2-notext.jpg);
   position: relative;
   z-index: 1;
 }

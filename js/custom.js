@@ -400,19 +400,19 @@
 	
 		$('.newsletter-form').ajaxChimp({
         language: 'cm',
-        url: 'http://dsathemes.us3.list-manage.com/subscribe/post?u=af1a6c0b23340d7b339c085b4&id=344a494a6e'
+        url: 'https://oposicionesbombero.us18.list-manage.com/subscribe/post?u=5f68204d8926c6fff7bf553fe&amp;id=fe0e8e5208'
             //http://xxx.xxx.list-manage.com/subscribe/post?u=xxx&id=xxx
 		});
 
 
 		$.ajaxChimp.translations.cm = {
-			'submit': 'Submitting...',
-			0: 'We have sent you a confirmation email',
-			1: 'Please enter your email address',
-			2: 'An email address must contain a single @',
-			3: 'The domain portion of the email address is invalid (the portion after the @: )',
-			4: 'The username portion of the email address is invalid (the portion before the @: )',
-			5: 'This email address looks fake or invalid. Please enter a real email address'
+			'submit': 'Validando...',
+			0: 'Te hemos enviado un mensaje de confirmación',
+			1: 'Por favor introduce tu e-mail',
+			2: 'Un e-mail debe contener un solo @',
+			3: 'El dominio del e-mail es inválido (la porción después del @)',
+			4: 'El usuario del e-mail es inválido (la porción antes del @)',
+			5: 'Este e-mail parece falso o inválido. Por favor, introduce uno verdadero.'
 		};	
 
 
