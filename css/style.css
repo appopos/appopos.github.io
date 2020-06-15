@@ -498,6 +498,12 @@ a:focus {
   border-color: #41bf2b;
 }
 
+.btn-orange {
+  color: #fff;
+  background-color: #ff863a;
+  border-color: #ff863a;
+}
+
 .btn-purple {
   color: #fff;
   background-color: #513c97;
