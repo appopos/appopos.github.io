@@ -2907,7 +2907,7 @@ p.testimonial-autor {
 }
 
 #download-2 .bg-inner {
-  background-image: url(../images/download-2-notext.jpg);
+  background-color: #444;
   position: relative;
   z-index: 1;
 }
